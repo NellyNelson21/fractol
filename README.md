@@ -4,6 +4,6 @@ This project was aimed into creating programm that could draw 3 types of fractal
 
 It compiles with Makefile
 
-After that just enter ./fractal <name of fractal> which can be mandelbrot, julia or burningship
+After that just enter ./fractal _name_ which is mandelbrot, julia or burningship
 
 # Project objective located in en.subject file
